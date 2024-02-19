@@ -56,6 +56,8 @@ curl http://127.0.0.1:8080/calculate/?example=5-3*6/3-2
 ```rb
 curl http://127.0.0.1:8080/calculate/?example=3*3%2B5-2
 ```
+# Схема проекта 
+![Alt text](https://github.com/tantoni228/server_calculator/blob/main/app_server_calculator.png).
 
 # Грехи проекта
 + Не может решать примеры со скобками
