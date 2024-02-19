@@ -58,7 +58,7 @@ curl http://127.0.0.1:8080/calculate/?example=3*3%2B5-2
 ```
 # Схема проекта 
 *Здесь указаны, как взаимодействуют между собой функции, а также описание БД*
-![Alt text](https://github.com/tantoni228/server_calculator/blob/main/app_server_calculator.png).
+![Alt text](https://github.com/tantoni228/server_calculator/blob/main/scheme_distributed_calculator.png).
 
 # Недароботки проекта
 + Не может решать примеры со скобками
